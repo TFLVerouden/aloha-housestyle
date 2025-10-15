@@ -5,11 +5,9 @@ _By Sarah Onrust, Lotte Steenmeijer & Tommie Verouden.
 Special thanks to Jeroen Oosterbeek from Xerox!_
 
 ### Quick downloads
-- [Logo (PNG)](/0%20Quick%20access/aloha_logo_color.png)
-- [Logo (SVG)](/0%20Quick%20access/aloha_logo_color.svg)
-- [Logo (EPS)](/0%20Quick%20access/aloha_logo_color.eps)
-- [Flower on square background, orange (PNG)](/0%20Quick%20access/flower_in_square_orange.png)
-- [Flower on square background, blue (PNG)](/0%20Quick%20access/flower_in_square_blue.png)
+- Aloha logo: [PNG](/0%20Quick%20access/aloha_logo.png), [SVG](/0%20Quick%20access/aloha_logo.svg), [EPS](/0%20Quick%20access/aloha_logo.eps)
+- Logo with subtitle _Triathlon_: [PNG](/0%20Quick%20access/aloha_triathlon_logo.png), [SVG](/0%20Quick%20access/aloha_triathlon_logo.svg), [EPS](/0%20Quick%20access/aloha_triathlon_logo.eps)
+- Flower on square background: [orange (PNG)](/0%20Quick%20access/flower_in_square_orange.png), [blue (PNG)](/0%20Quick%20access/flower_in_square_blue.png)
 
 Feel free to send us any suggestions for other commonly used logo variants. 
 
