@@ -21,6 +21,16 @@ guidelines for your designs, feel free to contact
 us at [housestyle@alohatriathlon.nl](mailto:housestyle@alohatriathlon.nl).
 
 ## File overview
+### File name explanation
+All image files start with the type of logo or element you're looking at. They then specify a variation, the colour
+
+Example, file found in ```/1 Logo variations/a PNG (web & paper raster graphics)/ii With background/Size 2 (small)/More text variants/```:
+```
+"/triathlon_var2_onbluebg_opaque@2x_S.png"
+ +---------+----+--------+------+----+---+
+      ↓       ↓      ↓       ↓     ↓   ↓
+    title subtitle colour opacity size type
+```
 ### Logo variants
 ![Logo variants](/Master%20files/Artboards%20for%20export/Multicolour_overview.png)
 
