@@ -5,9 +5,9 @@ _By Sarah Onrust, Lotte Steenmeijer & Tommie Verouden.
 Special thanks to Jeroen Oosterbeek from Xerox!_
 
 ### Quick downloads
-- Aloha logo: [PNG](/0%20Quick%20access/aloha_logo.png), [SVG](/0%20Quick%20access/aloha_logo.svg), [EPS](/0%20Quick%20access/aloha_logo.eps)
-- Logo with subtitle _Triathlon_: [PNG](/0%20Quick%20access/aloha_triathlon_logo.png), [SVG](/0%20Quick%20access/aloha_triathlon_logo.svg), [EPS](/0%20Quick%20access/aloha_triathlon_logo.eps)
-- Flower on square background: [orange (PNG)](/0%20Quick%20access/flower_in_square_orange.png), [blue (PNG)](/0%20Quick%20access/flower_in_square_blue.png)
+- Aloha logo: [PNG](https://github.com/TFLVerouden/aloha-housestyle/blob/main/0%20Quick%20access/aloha_logo.png?raw=true), [SVG](https://github.com/TFLVerouden/aloha-housestyle/blob/main/0%20Quick%20access/aloha_logo.svg?raw=true), [EPS](https://github.com/TFLVerouden/aloha-housestyle/blob/main/0%20Quick%20access//aloha_logo.eps?raw=true)
+- Logo with subtitle _Triathlon_: [PNG](https://github.com/TFLVerouden/aloha-housestyle/blob/main/0%20Quick%20access/aloha_triathlon_logo.png?raw=true), [SVG](https://github.com/TFLVerouden/aloha-housestyle/blob/main/0%20Quick%20access/aloha_triathlon_logo.svg?raw=true), [EPS](https://github.com/TFLVerouden/aloha-housestyle/blob/main/0%20Quick%20access/aloha_triathlon_logo.eps?raw=true)
+- Flower on square background: [orange (PNG)](https://github.com/TFLVerouden/aloha-housestyle/blob/main/0%20Quick%20access/flower_in_square_orange.png?raw=true), [blue (PNG)](https://github.com/TFLVerouden/aloha-housestyle/blob/main/0%20Quick%20access/flower_in_square_blue.png?raw=true)
 
 Feel free to send us any suggestions for other commonly used logo variants. 
 
