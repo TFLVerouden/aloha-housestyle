@@ -18,7 +18,7 @@ Take a look at the [house style guide](/Aloha%20house%20style%20(read%20me!).pdf
 
 For further clarifications on how to use these
 guidelines for your designs, feel free to contact
-us at [housestyle@alohatriathlon.nl](mailto:housestyle@alohatriathlon.nl).
+us at [housestyle@alohatriathlon.nl](mailto:housestyle@alohatriathlon.nl). Any empty folders might be available internally on the [Aloha Resources Drive](https://www.alohatriathlon.nl/housestyle/drive) (log in with your Aloha account).
 
 ## File overview
 ### File name explanation
@@ -42,6 +42,11 @@ Example, file found in ```/1 Logo variations/a PNG (web & paper raster graphics)
 
 When cloning this repository, take into account that it contains large (100+ MB) files. These will be rejected by Git, unless a tool like [Git Large File Storage](https://git-lfs.com/) is used.
 
+### Todo
+- More templates!
+- Add logos of other sponsors (and ask for permission to host logos in public repository?)
+- Improve findability of files
+- JPG/WebP option for online use of images?
 
 ## License and Use
 

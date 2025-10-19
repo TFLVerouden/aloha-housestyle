@@ -1,1 +1,1 @@
-For your convenience, the logos of our sponsors and of the UT can be found on the [Aloha Resources Drive](https://drive.google.com/drive/folders/14gsuzePBnRRij9I7qwVqHw-7qFvR5vjm?usp=sharing) (log in with your Aloha account).
+For your convenience, the logos of our sponsors and of the UT can be found on the [Aloha Resources Drive](https://www.alohatriathlon.nl/housestyle/drive) (log in with your Aloha account).
