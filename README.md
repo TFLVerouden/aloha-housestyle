@@ -46,7 +46,8 @@ When cloning this repository, take into account that it contains large (100+ MB)
 - More templates!
 - Add logos of other sponsors (and ask for permission to host logos in public repository?)
 - Improve findability of files
-- JPG/WebP option for online use of images?
+- JPG/WebP options for online use of images?
+- "Copy" button next to colour codes on alohatriathlon.nl/housestyle for even quicker access to the colours
 
 ## License and Use
 
